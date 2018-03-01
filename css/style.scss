@@ -55,7 +55,10 @@ section {
 // Header
 .main-image{
     height: 250px;
-    width: auto;
+    width: 100%;
+    background-image: url("../images/mainS1_ELLY_canare_TP_V4.jpg");
+    background-size: cover;
+    background-position: center bottom;
 }
 
 // Menu
@@ -142,8 +145,7 @@ footer {
   
 //Header
   .main-image{
-    height: auto;
-    width: 100%;
+    height: 500px;
   }
 
 // Menu
